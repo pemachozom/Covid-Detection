@@ -41,7 +41,7 @@ The COVID-19 Detection project applies supervised machine learning techniques to
 
 ## 📂 Dataset
 
-The dataset used in this project is the **[COVID-19 Chest X-Ray Image Dataset](https://www.kaggle.com/datasets/alifrahman/covid19-chest-xray-image-dataset)** available on Kaggle. It contains chest X-ray images labeled as COVID-19, pneumonia, or normal, and is widely used for training image-based diagnostic models.
+The dataset used in this project is the **[COVID-19 Chest X-Ray Image Dataset](https://www.kaggle.com/datasets/alifrahman/covid19-chest-xray-image-dataset)** available on Kaggle. It contains chest X-ray images labeled as COVID-19 or normal, and is widely used for training image-based diagnostic models.
 
 This dataset enabled us to train and evaluate machine learning models to classify medical imaging data for potential COVID-19 detection.
 
